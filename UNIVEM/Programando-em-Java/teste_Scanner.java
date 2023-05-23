@@ -22,5 +22,6 @@ public class teste_Scanner {
         System.out.println("Telefone: " + Telefone);
         System.out.println("Rua: " + rua + "," + numerocasa);
 
+        ner.close();
     }
 }
